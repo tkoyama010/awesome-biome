@@ -38,7 +38,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tools
 
-*Coming soon - contributions welcome!*
+- [Biome Migration Tools](https://biomejs.dev/reference/cli#biome-migrate-eslint) - Official migration tools to easily migrate from ESLint and Prettier to Biome
 
 ## Editor Integration
 
