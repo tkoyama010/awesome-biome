@@ -43,11 +43,6 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 ## Configuration
 
 - [Configuration Schema](https://biomejs.dev/schemas/2.3.11/schema.json) - Official JSON schema for biome.json configuration files
-- [Configuration Reference](https://biomejs.dev/reference/configuration) - Complete configuration options reference
-- [Configure Biome Guide](https://biomejs.dev/guides/configure-biome) - Step-by-step configuration guide
-- [Configuration Generator](https://biomejs.dev/playground) - Interactive playground to generate configurations
-- [Migration Guide from ESLint & Prettier](https://biomejs.dev/guides/migrate-eslint-prettier) - Migrate existing configurations
-- [Configuration for Large Projects](https://biomejs.dev/guides/big-projects) - Configuration strategies for monorepos and large codebases
 
 ## Tutorials and Articles
 
