@@ -42,7 +42,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Configuration
 
-- [Configuration Schema](https://biomejs.dev/schemas/2.3.11/schema.json) - Official JSON schema for biome.json configuration files
+- [Biome Configuration Generator](https://biomejs.dev/playground) - Interactive playground to generate and test Biome configurations with live preview
 
 ## Tutorials and Articles
 
