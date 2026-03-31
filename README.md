@@ -42,7 +42,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Editor Integration
 
-*Coming soon - contributions welcome!*
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=biomejs.biome) - Official Biome extension for Visual Studio Code with formatting and linting on save
 
 ## Configuration
 
