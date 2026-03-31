@@ -31,6 +31,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 - [Discord](https://t.co/yCYMQLPCUQ)
 - [Twitter](https://twitter.com/biomejs)
 - [Mastodon](https://fosstodon.org/@biomejs)
+- [YouTube](https://www.youtube.com/channel/UC6ssscaFgCSlbv1Pb6krGVw)
 
 ## Tools
 
