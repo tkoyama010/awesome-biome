@@ -3,7 +3,7 @@
 > A curated list of awesome Biome tools, plugins, configurations, tutorials, and other resources.
 
 <p align="center">
-  <img src="https://biomejs.dev/_astro/logo-dark-transparent.Bwi2A1en.svg" alt="Biome Logo" width="200">
+  <img src="https://biomejs.dev/_astro/logo-dark-transparent.Bwi2A1en.svg" alt="Biome Logo" width="200" style="background-color: #f8f9fa; padding: 20px; border-radius: 8px;">
 </p>
 
 Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and JSON. It provides many features to improve the developer experience, including a formatter, linter, import sorter, bundler, and more.
