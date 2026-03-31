@@ -50,11 +50,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tutorials and Articles
 
-- [Reddit Community Discussions on Biome vs ESLint/Prettier](https://www.reddit.com/r/javascript/comments/17y1x6k/biome_plugin/) - Real developer experiences and migration stories from the community
-
-## Templates
-
-*Coming soon - contributions welcome!*
+- [Biome.js: Prettier+ESLint killer?](https://walterspieler.dev/blog/biome-js-prettier-eslint-killer) - Real developer experience and honest comparison between Biome and traditional tools
 
 ## Other
 
