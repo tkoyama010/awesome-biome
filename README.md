@@ -43,7 +43,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Configuration
 
-*Coming soon - contributions welcome!*
+- [Biome Configuration Generator](https://biomejs.dev/playground) - Interactive playground to generate and test Biome configurations with live preview
 
 ## Tutorials and Articles
 
