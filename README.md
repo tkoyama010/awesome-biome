@@ -50,7 +50,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tutorials and Articles
 
-- [Biome v2.4—Embedded Snippets, HTML Accessibility, and Better Framework Support](https://biomejs.dev/blog/biome-v2-4/) - Official blog post covering the latest features in Biome 2.4
+- [How to Configure Biome for Your Project](https://biomejs.dev/guides/configure-biome/) - Step-by-step guide to configure Biome with practical examples
 
 ## Templates
 
