@@ -22,7 +22,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 ## Official Resources
 
 - [Official Website](https://biomejs.dev/)
-- [Documentation](https://biomejs.dev/guides/)
+- [Documentation](https://biomejs.dev/guides/getting-started)
 - [GitHub Repository](https://github.com/biomejs/biome)
 - [Configuration Guide](https://biomejs.dev/guides/configure-biome/)
 
