@@ -50,7 +50,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tutorials and Articles
 
-*Coming soon - contributions welcome!*
+- [Biome.js: Prettier+ESLint killer?](https://walterspieler.dev/blog/biome-js-prettier-eslint-killer) - Real developer experience and honest comparison between Biome and traditional tools
 
 ## Templates
 
@@ -77,4 +77,6 @@ To the extent possible under law, we have waived all copyright and related or ne
 
 ## Contributors
 
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of all contributors to this project.
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for a list of all contributors to this project.
