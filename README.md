@@ -50,11 +50,20 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tutorials and Articles
 
-- [Biome.js: Prettier+ESLint killer?](https://walterspieler.dev/blog/biome-js-prettier-eslint-killer) - Real developer experience and honest comparison between Biome and traditional tools
+*Coming soon - contributions welcome!*
+
+## Templates
+
+- [gmickel/turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs) - Turborepo starter with Next.js, Nextra, Storybook, and shared shadcn/ui with Biome configuration
+- [smblee/nextjs-biome-shadcn-tailwind4-starter](https://github.com/smblee/nextjs-biome-shadcn-tailwind4-starter) - Minimal NextJS 16 starter with Biome, shadcn, and Tailwind v4
+- [mrchriscarpenter/next-starter](https://github.com/mrchriscarpenter/next-starter) - A minimal Next.js starter template powered by Bun with Biome configuration
+- [ProductOfAmerica/turbo-starter](https://github.com/ProductOfAmerica/turbo-starter) - Kickstart Next.js 16 projects with Turborepo, Shadcn UI, Biome.js, and Docker
+
+*Coming soon - contributions welcome!*
 
 ## Other
 
-*Coming soon - contributions welcome!*
+- [ESLint vs Biome Comparison](https://github.com/ndruger/eslint_biome_comparison) - Community repository comparing ESLint and Biome performance and features
 
 ## Contributing
 
