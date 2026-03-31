@@ -55,6 +55,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 ## Templates
 
 - [gmickel/turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs) - Turborepo starter with Next.js, Nextra, Storybook, and shared shadcn/ui with Biome configuration
+- [smblee/nextjs-biome-shadcn-tailwind4-starter](https://github.com/smblee/nextjs-biome-shadcn-tailwind4-starter) - Minimal NextJS 16 starter with Biome, shadcn, and Tailwind v4
 
 ## Other
 
