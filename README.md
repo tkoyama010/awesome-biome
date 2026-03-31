@@ -50,7 +50,7 @@ Biome is a fast and comprehensive toolchain for JavaScript, TypeScript, JSX, and
 
 ## Tutorials and Articles
 
-- [How to Configure Biome for Your Project](https://biomejs.dev/guides/configure-biome/) - Step-by-step guide to configure Biome with practical examples
+- [Reddit Community Discussions on Biome vs ESLint/Prettier](https://www.reddit.com/r/javascript/comments/17y1x6k/biome_plugin/) - Real developer experiences and migration stories from the community
 
 ## Templates
 
